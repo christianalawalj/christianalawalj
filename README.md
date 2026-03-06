@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align = "center">
+  <b>This text is bold inside HTML</b><br>
+  <i> THIS LINE IS ITALIC HTML </i>
+</p>
